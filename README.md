@@ -1,6 +1,6 @@
 # SQL_Exploration_Covid_Data
 SQL Queries for the data exploration from covid data 
-[data_link](https://ourworldindata.org/covid-deaths)
+[link](https://ourworldindata.org/covid-deaths)
 
 This SQL project used SQL Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types for data exploration from covid vaccinations and covid deaths rate especially focused on canada.
 
